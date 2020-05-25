@@ -1,0 +1,24 @@
+body {
+    font-size: 1em;
+    font-weight: normal;
+    font-family: courier;
+    color: #000000;
+    text-align: left;
+  }
+  h1 {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #627a47;
+    text-align: center;
+  }
+      h2 {
+        font-weight: bold;
+        color: #627a47;
+      }
+      div{
+        text-indent: 2em;
+      }
+      p{
+        font-style: oblique;
+        text-indent: 2em;
+      }
