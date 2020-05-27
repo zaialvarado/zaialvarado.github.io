@@ -1,15 +1,26 @@
+ /*
+    Color scheme for this website:
+     #3C9E4D
+     #269B3A
+     #368F67
+     #228C5C
+     #64B244
+     #52AF2A
+  */
 body {
     font-size: 1em;
     font-weight: normal;
     font-family: courier;
     color: #000000;
     text-align: left;
+    background-color:#368F67;
   }
   h1 {
     font-size: 1.8em;
     font-weight: bold;
     color: #627a47;
     text-align: center;
+    background-color:FFFFFF;
   }
       h2 {
         font-weight: bold;
