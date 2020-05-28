@@ -7,6 +7,27 @@
      #64B244
      #52AF2A
   */
+div#skipnav {
+ padding: 0.75em;
+}
+div.info{
+    width: 40%;
+    font-size: large;
+}
+p#overview{
+    font-size: large;
+    color: FFFFFF;
+    border: 1px solid;
+    padding: 0px;
+    font-weight: bold;
+}
+p.temp
+{
+ font-style: italic;
+}
+/*main#main{
+    
+}*/
 body {
     font-size: 1em;
     font-weight: normal;
