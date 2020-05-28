@@ -14,15 +14,23 @@ body {
     background-color: #A1BAAF;
     color: #000000;
     text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
   }
-h1,h2,h3 {
+div{
+}
+h1,h2 {
 font-family: Rockwell,"Times New Roman",serif;
+background-color: 439E75;
 }
 h1 {
     font-size: 1.8em;
     font-weight: bold;
     color: #00713E;
     text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #00713E;
   }
       h2 {
         font-weight: bold;
@@ -35,3 +43,12 @@ h1 {
         font-style: oblique;
         text-indent: 2em;
       }
+ul{
+ list-style: none;
+ padding: 0;
+ margin: 0;
+}
+li{
+ list-style-type: square;
+ padding-left: 16px;
+}
