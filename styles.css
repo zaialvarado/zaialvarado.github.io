@@ -17,8 +17,6 @@ body {
     margin-left: 10%;
     margin-right: 10%;
   }
-div{
-}
 h1,h2 {
 font-family: Rockwell,"Times New Roman",serif;
 background-color: 439E75;
@@ -26,15 +24,15 @@ background-color: 439E75;
 h1 {
     font-size: 1.8em;
     font-weight: bold;
-    color: #00713E;
+    color: #001A0E;
     text-align: center;
     border: 1px solid;
     padding: 10px;
-    box-shadow: 5px 10px #00713E;
+    box-shadow: 5px 10px #001A03;
   }
       h2 {
         font-weight: bold;
-        color: #00713E;
+        color: #001A0E;
       }
       div{
         text-indent: 2em;
