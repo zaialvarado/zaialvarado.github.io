@@ -28,6 +28,7 @@ h1 {
     text-align: center;
     border: 1px solid;
     padding: 10px;
+    border-radius: 50px 20px;
     box-shadow: 5px 10px #001A03;
   }
       h2 {
