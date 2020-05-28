@@ -16,7 +16,7 @@ div.info{
 }
 p#overview{
     font-size: large;
-    color: FFFFFF;
+    color: #7FFF00;
     border: 1px solid;
     padding: 0px;
     font-weight: bold;
@@ -25,9 +25,10 @@ p.temp
 {
  font-style: italic;
 }
-/*main#main{
-    
-}*/
+main#main{
+    color: #001C05;
+    background-color: #FFFFFF; 
+}
 body {
     font-size: 1em;
     font-weight: normal;
