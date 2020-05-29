@@ -38,13 +38,13 @@ body {
     font-size: 1em;
     font-weight: normal;
     font-family: "Courier New",Courier,monospace;
-    background-color: #14912A;
+    background-color: #3A7144;
     color: #000000;
     text-align: left;
     margin-left: 10%;
     margin-right: 10%;
-    width: 1000px; /*mess around with the width, change it from a fixed width design 
- to a fluid design by changing the width to a percentage, try using various percentage 
+    width: 100%; /*mess around with the width, change the fluid width design 
+ by changing the width to a percentage, try using various percentage 
  values until you find the one that works well for the design*/
     min-width: 720px;
     margin: 0 auto;
