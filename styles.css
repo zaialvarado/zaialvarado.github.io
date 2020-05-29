@@ -43,8 +43,11 @@ body {
     text-align: left;
     margin-left: 10%;
     margin-right: 10%;
-    width: 1000px;
+    width: 1000px; /*mess around with the width, change it from a fixed width design 
+ to a fluid design by changing the width to a percentage, try using various percentage 
+ values until you find the one that works well for the design*/
     min-width: 720px;
+    margin: 0 auto;
   }
 h1,h2 {
 font-family: Rockwell,"Times New Roman",serif;
