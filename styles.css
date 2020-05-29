@@ -32,6 +32,7 @@ p.temp
 main#main{
     color: #001C05;
     background-color: #FFFFFF; 
+ padding: 5px;
 }
 body {
     font-size: 1em;
