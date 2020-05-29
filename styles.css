@@ -21,6 +21,10 @@ p#overview{
     padding: 0px;
     font-weight: bold;
 }
+p#overview::first-letter {
+ font-size: 200%;
+ font-family: Luminari,fantasy;
+}
 p.temp
 {
  font-style: italic;
