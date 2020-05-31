@@ -15,6 +15,7 @@ div#skipnav {
 div.info{
     width: 40%;
     font-size: large;
+    float: left;
 }
 p#overview{
     font-size: large;
@@ -84,4 +85,7 @@ ul{
 li{
  list-style-type: square;
  padding-left: 16px;
+}
+nav{ 
+ clear: left;
 }
