@@ -8,10 +8,9 @@
      #52AF2A
   */
 div#skipnav {
- padding: 0.75em;
- top: 5px;
- left: 5px;
- position: absolute;
+ /*padding: 0.75em;*/
+ position: relative;
+ right: 12.5%;
 }
 div.info{
     width: 40%;
